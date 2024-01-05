@@ -1,0 +1,10 @@
+#myskill{
+    font-size: 2rem;
+    font-weight: 600;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+    position: relative;
+}

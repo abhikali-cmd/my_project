@@ -1,0 +1,108 @@
+#porfolio{
+    min-height: calc(100vh-4rem);
+    width: 100vw;
+    max-width: 60rem;
+    padding: 50px 0;
+    height: 100vh;
+}
+
+.subtittle{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+    font-size: 2.7rem;
+}
+.worklist{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* display: inline; */
+    /* flex-wrap: wrap; */
+    position: sticky;
+    margin-bottom: 4rem;
+    height: 50vh;
+    background-color: rgb(17, 22, 22);
+    /* overflow: hidden; */
+    /* display: block; */
+}
+.shoppingapp,.chatapp,.tetris{
+    height: 17rem;
+    width: 15rem;
+    display: grid;
+    gap: 20rem;
+    grid-template-columns: repeat(3,1fr);
+    padding: 30px;
+    margin: auto;
+    border-radius: .5rem;
+    transition: transform 1s;
+    object-fit: cover;
+    background-color:rgb(25 41 48 / 54%);
+    /* gap: 10px; */
+
+
+}
+.work{
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+
+}
+.project{
+    /* margin-left: 2rem ; */
+    /* margin-bottom: 2rem; */
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+.effect{
+    position: relative;
+    font-size: .75rem;
+    max-width: 15rem;
+    /* margin-left: 2rem; */
+
+}
+.link1{
+    object-fit: cover;
+    cursor: pointer;
+    color: #f45900;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    font-size: 1rem;
+    background: #fff;
+    border-radius: 50px;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+.layer{
+    width: 100%;
+    height: 0%;
+    background: linear-gradient(rgba(204, 150, 56,.6),#f45900);
+    /* padding:  0 2rem; */
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 40px;
+    transition: height .5s;
+}
+.link1 a{
+    color: #f45900;
+}
+.work:hover .tetris{
+    transform: scale(1.1);
+}
+.work:hover .shoppingapp {
+    transform: scale(1.1);
+}
+.work:hover .chatapp {
+    transform: scale(1.1);
+}
+.work:hover .layer{
+    height: 100%;
+}
