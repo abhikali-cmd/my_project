@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/my_project%20/static/css/main.00bc8fe8.css",
-    "main.js": "/my_project%20/static/js/main.e3cc974c.js",
-    "static/media/new4.png": "/my_project%20/static/media/new4.54255cf1a9fd2f6c3b51.png",
-    "static/media/color-sharp.png": "/my_project%20/static/media/color-sharp.3b89273af7f20f3b3667.png",
-    "static/media/2474678.jpg": "/my_project%20/static/media/2474678.3a5511ff233d37edfa4d.jpg",
-    "static/media/gzp7o186.png": "/my_project%20/static/media/gzp7o186.44377558c5510b90a1eb.png",
-    "static/media/1.png": "/my_project%20/static/media/1.b4f9636c1b5c8eec122b.png",
-    "static/media/new7.png": "/my_project%20/static/media/new7.2fce470b4805eae3b703.png",
-    "static/media/logo2.png": "/my_project%20/static/media/logo2.42a964696167567addb2.png",
-    "static/media/mxw5dpgr.png": "/my_project%20/static/media/mxw5dpgr.f2175436f691f265c46e.png",
-    "static/media/revicons.eot": "/my_project%20/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/my_project%20/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/ui-design.png": "/my_project%20/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "static/media/revicons.woff": "/my_project%20/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/my_project%20/index.html",
-    "main.00bc8fe8.css.map": "/my_project%20/static/css/main.00bc8fe8.css.map",
-    "main.e3cc974c.js.map": "/my_project%20/static/js/main.e3cc974c.js.map"
+    "main.css": "/my_project/static/css/main.81f94660.css",
+    "main.js": "/my_project/static/js/main.761c7732.js",
+    "static/media/new4.png": "/my_project/static/media/new4.54255cf1a9fd2f6c3b51.png",
+    "static/media/color-sharp.png": "/my_project/static/media/color-sharp.3b89273af7f20f3b3667.png",
+    "static/media/2474678.jpg": "/my_project/static/media/2474678.3a5511ff233d37edfa4d.jpg",
+    "static/media/gzp7o186.png": "/my_project/static/media/gzp7o186.44377558c5510b90a1eb.png",
+    "static/media/1.png": "/my_project/static/media/1.b4f9636c1b5c8eec122b.png",
+    "static/media/new7.png": "/my_project/static/media/new7.2fce470b4805eae3b703.png",
+    "static/media/logo2.png": "/my_project/static/media/logo2.42a964696167567addb2.png",
+    "static/media/mxw5dpgr.png": "/my_project/static/media/mxw5dpgr.f2175436f691f265c46e.png",
+    "static/media/revicons.eot": "/my_project/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/my_project/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/ui-design.png": "/my_project/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/revicons.woff": "/my_project/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/my_project/index.html",
+    "main.81f94660.css.map": "/my_project/static/css/main.81f94660.css.map",
+    "main.761c7732.js.map": "/my_project/static/js/main.761c7732.js.map"
   },
   "entrypoints": [
-    "static/css/main.00bc8fe8.css",
-    "static/js/main.e3cc974c.js"
+    "static/css/main.81f94660.css",
+    "static/js/main.761c7732.js"
   ]
 }
